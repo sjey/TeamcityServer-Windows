@@ -9,4 +9,5 @@ Steps to install:
 
 
 TODO:
-
+1. Add windows SDK recipe. Currently is not working
+2. Add other required packages.
