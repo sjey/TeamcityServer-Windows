@@ -1,1 +1,0 @@
-chocolatey 'teamcity'
